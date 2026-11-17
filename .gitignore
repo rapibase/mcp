@@ -1,0 +1,2 @@
+# Registry DNS-proof private key, local only (never commit)
+*.private-key
